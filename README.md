@@ -1,3 +1,3 @@
 # coding-challenge
 ikonic-coding-challenge
-please run seeders after installing application
+please first create your account then run seeders
